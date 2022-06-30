@@ -9,6 +9,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: 'blue';
+    background-image: url('docs/assets/images/IMG_6410.jpeg');
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
