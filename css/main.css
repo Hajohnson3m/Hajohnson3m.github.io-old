@@ -1,5 +1,9 @@
+---
+---
+
+
 header {
-  background-image: url('{{ site.baseurl }}/docs/assets/images/IMG_6410.jpeg');
+  background-image: url('docs/assets/images/IMG_6410.jpeg');
 }
 body {
     margin: 60px auto;
