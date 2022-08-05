@@ -4,6 +4,8 @@
 
 header {
   background-image: url('docs/assets/images/IMG_6410.jpeg');
+  background-size: cover;
+  background-position: center;
 }
 body {
     margin: 60px auto;
