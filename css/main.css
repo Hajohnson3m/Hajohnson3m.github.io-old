@@ -3,7 +3,8 @@
 
 
 header {
-  background-image: url('docs/assets/images/IMG_6410.jpeg');
+  background: url('docs/assets/images/IMG_6410.jpeg');
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
