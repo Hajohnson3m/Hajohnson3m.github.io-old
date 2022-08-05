@@ -3,7 +3,7 @@
 
 
 header {
-  background: url('docs/assets/images/IMG_6410.jpeg');
+  background: url('../docs/assets/images/IMG_6410.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -13,7 +13,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: 'blue';
-    background-image: url('docs/assets/images/IMG_6410.jpeg');
+    background-image: url('../docs/assets/images/IMG_6410.jpeg');
 }
 img {
   width: 50%;
