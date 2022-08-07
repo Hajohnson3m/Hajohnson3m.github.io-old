@@ -7,16 +7,15 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  width: 100%;
 }
 body {
     margin: 60px auto;
-    width: 70%;
+    background-size: cover;
     background-color: 'blue';
     background-image: url('../docs/assets/images/IMG_6410.jpeg');
 }
 img {
-  width: 50%;
+  width: 20%;
   max-width: 100%;
   height: auto;
   display: block;
